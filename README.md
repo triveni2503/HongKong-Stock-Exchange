@@ -1,7 +1,7 @@
-# Shanghai Stock Forecasting Web App
+# HongKong Stock Forecasting Web App
 
 ## 📌 Overview
-This HongKong Stock Forecasting Web App allows users to analyze historical stock data of the top 25 Shanghai companies, perform ARIMA-based time series forecasting, and compare predicted prices with actual stock prices using Yahoo Finance (finance).
+This HongKong Stock Forecasting Web App allows users to analyze historical stock data of the top 25 HongKong companies, perform ARIMA-based time series forecasting, and compare predicted prices with actual stock prices using Yahoo Finance (finance).
 
 The app is built using **Streamlit**, **Pandas**, **Plotly**, and **Statsmodels**, making it interactive and visually appealing.
 
@@ -76,7 +76,7 @@ Contributions are welcome! Feel free to fork the repo, create a branch, and subm
 This project is licensed under the **MIT License**.
 
 ---
-💡 **Author**: Nayan Thakre  
-📧 **Contact**: Nayanthakre379@gmail.com 
-🌍 **GitHub**: [ntNayan23](https://github.com/ntNayan23)
+💡 **Author**: Triveni Rahate 
+📧 **Contact**: trivenirahate25.03@gmail.com
+
 
