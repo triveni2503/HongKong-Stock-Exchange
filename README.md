@@ -6,7 +6,7 @@ This HongKong Stock Forecasting Web App allows users to analyze historical stock
 The app is built using **Streamlit**, **Pandas**, **Plotly**, and **Statsmodels**, making it interactive and visually appealing.
 
 ## 🚀 Features
-✅ **Stock Price Analysis**: Visualize historical stock prices for Shanghai-listed companies.
+✅ **Stock Price Analysis**: Visualize historical stock prices for HongKong-listed companies.
 ✅ **ARIMA-Based Forecasting**: Forecast future stock prices using the **ARIMA model**.
 ✅ **ADF Stationarity Test**: Check data stationarity before applying it to the forecast.
 ✅ **Interactive Forecast Selection**: Select forecast duration (5 to 90 days).
